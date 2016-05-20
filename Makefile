@@ -1,0 +1,2 @@
+LIBS=lib
+INCLUDE_PATH=libs/
