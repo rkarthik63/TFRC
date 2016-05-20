@@ -1,9 +1,10 @@
 #include <iostream>
-#include "a.h"
+#include "sample/a.h"
 
 int main(void)
 {
-	
+	A a;
+   	
     
     return 0;
 }

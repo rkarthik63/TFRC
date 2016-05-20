@@ -1,3 +1,4 @@
+#include <iostream>
 #include "a.h"
 
 A::A() {
